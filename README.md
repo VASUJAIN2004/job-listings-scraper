@@ -21,7 +21,6 @@ The data is stored in a **CSV file** for analysis.
    cd job-scraper
 
 ## Install dependencies:
-
 pip install -r requirements.txt
 
 
