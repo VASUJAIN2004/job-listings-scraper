@@ -20,7 +20,7 @@ The data is stored in a **CSV file** for analysis.
    git clone https://github.com/yourusername/job-scraper.git
    cd job-scraper
 
-##Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
